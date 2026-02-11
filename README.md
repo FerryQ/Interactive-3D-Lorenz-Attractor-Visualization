@@ -1,6 +1,5 @@
 # 🦋 Interactive 3D Lorenz Attractor Visualization
 
-**Student:** František Kareš  
 
 ## 1. Introduction and Overview
 This project merges mathematical visualization with gesture-based human-computer interaction. The application renders a **Lorenz Attractor**—a system of differential equations known for its "butterfly" shape and chaotic behavior—in real-time.
